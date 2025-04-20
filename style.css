@@ -1,0 +1,66 @@
+/* div{
+  background-color: mediumpurple;
+  /*border-style: solid;
+  border-width: thick;
+  border-color: purple;
+  width: 100px;
+  height: 100px;
+  border-radius:25px;
+  position: relative;
+  animation-name:bod;
+  animation-duration:3s;
+  animation-delay:2s;
+  animation-iteration-count:infinite; 
+  transition-delay:5s;
+}
+@keyframes bod{
+  0%{
+  background-color: cadetblue;
+  border-style: solid;
+  border-color: black;
+  border-width: thick;
+  border-radius: 25px;
+  transform: rotate(0deg);
+width: 100px;
+height: 100px;
+text-align: center;
+left:0;
+}
+50%{
+background-color: red;
+  border-style: solid;
+  border-color: black;
+  border-width: thick;
+  border-radius: 25px;
+transform: scale(1);
+transform:rotate(720deg);
+left:200px;
+}
+75%{
+background-color: red;
+  border-style: solid;
+  border-color: black;
+  border-width: thick;
+  border-radius: 25px;
+  transform:rotate(720deg);
+width: 100px;
+height: 100px;
+transform: scale(1);
+left:300px;
+}
+100%{
+background-image: blue;
+  border-style: solid;
+  border-color: black;
+  border-width: thick;
+  border-radius: 25px;
+  transform: rotate(100deg);
+width: 100px;
+height: 100px;
+text-align: center;
+left:0;
+}
+}*/
+nav{
+  background-color:cadetblue;
+}
